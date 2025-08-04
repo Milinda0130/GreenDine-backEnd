@@ -1,5 +1,4 @@
 package edu.icet.ecom.dto;
 
-public class EmployeeDTO {
-
+public class WasteLogDTO {
 }
